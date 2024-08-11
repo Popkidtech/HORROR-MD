@@ -1,6 +1,6 @@
 {
   "name":"IANS-MD",
-  "description":"A WhatsApp bot developed by IAN TARACHA any problem wa.me  :"254111385747",
+  "description":"A WhatsApp bot developed by IAN TARACHA any problem wa.me  :254111385747,254732297194",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/76337c73fe48a2aa4466b.jpg",
   "repository":"https://github.com/Popkidtech/HORROR-MD",
@@ -53,7 +53,7 @@
     },
   "HEROKU_APP_NAME": { 
     "description": "insert your heroku APP NAME ",
-     "value":"popkid",
+     "value":"IANO",
      "required" :true
     }  
 	  ,
@@ -69,7 +69,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "popkid"
+    "value": "IANO"
   },
     "NUMERO_OWNER":
   {
